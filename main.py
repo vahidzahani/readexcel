@@ -25,10 +25,7 @@ for now in rows:
 f.close()
 print("end")
 
-
-    
-
-        # data[title]=cell.value
-        # print(data['from'])
-        #print(data)
-        #print(cell.value + "," cell.value )
+# data[title]=cell.value
+# print(data['from'])
+#print(data)
+#print(cell.value + "," cell.value )
